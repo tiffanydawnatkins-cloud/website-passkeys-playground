@@ -15,10 +15,10 @@
     "validate": "npm run lint && npm run prettier && npm run astro check"
   },
   "dependencies": {
-    "@astrojs/svelte": "^1.0.2",
+    "@astrojs/svelte": "^7.2.4",
     "@popmotion/popcorn": "^0.4.4",
-    "astro": "^1.6.2",
-    "svelte": "^3.52.0"
+    "astro": "^5.15.9",
+    "svelte": "^5.46.1"
   },
   "devDependencies": {
     "@significa/eslint-config": "^2.0.1",
